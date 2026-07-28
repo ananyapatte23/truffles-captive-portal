@@ -1,0 +1,6 @@
+{
+  "name": "Truffles Wi-Fi & Dine-In Ordering",
+  "description": "Wi-Fi captive portal and instant table ordering experience for Truffles restaurant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
